@@ -24,11 +24,12 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+					aliquip ex ea commodo consequat.
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>- Lorem ipsum dolor</div>
 				</div>
 			</div>
 			<div class={style.bio}>
